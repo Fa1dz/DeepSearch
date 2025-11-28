@@ -1,0 +1,23 @@
+# DeepSearch Advanced - Requirements
+
+# Core dependencies
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+ddgs>=3.9.0
+
+# GUI
+customtkinter>=5.2.0
+
+# NLP & Analysis
+spacy>=3.7.0
+textblob>=0.17.1
+
+# Data processing
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Utilities
+python-dateutil>=2.8.2
+
+# Optional: readability (for better text extraction)
+readability-lxml>=0.10
