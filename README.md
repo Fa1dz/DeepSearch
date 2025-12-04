@@ -1,5 +1,6 @@
 # 🔍 DeepSearch Advanced
 
+🚧 *Currently Under construction (Fixing Bypass CAPTCHA)* 🚧 
 **AI-Powered Web Search & Reasoning Engine**
 
 A sophisticated Python tool that performs deep web searches with advanced analysis, credibility scoring, sentiment analysis, and semantic reasoning. Features both CLI and beautiful GUI interfaces.
