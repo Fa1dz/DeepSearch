@@ -1,6 +1,6 @@
 # 🔍 DeepSearch Advanced
 
-## 🚧 Currently Under construction (Adding Bypass CAPTCHA) 🚧 
+## 🚧 Currently Under Construction (Adding Bypass CAPTCHA) 🚧 
 
 **AI-Powered Web Search & Reasoning Engine**
 
