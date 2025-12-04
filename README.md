@@ -355,4 +355,4 @@ Built with:
 
 **Made with ❤️ for researchers, developers, and curious minds.**
 
-*Last Updated: November 28, 2025*
+*Last Updated: December 4, 2025*
