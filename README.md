@@ -336,7 +336,7 @@ MIT License - Free for personal and commercial use
 
 ## 📞 Support
 
-- 📧 Email: [liam.herron@hotmail.com]
+- 📧 Email: []
 - 🐛 Issues: GitHub Issues
 - 💬 Discussions: GitHub Discussions
 
